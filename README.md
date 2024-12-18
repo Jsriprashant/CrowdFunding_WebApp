@@ -160,6 +160,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Acknowledgments
+- Thanks CodeWithHarry (https://github.com/CodeWithHarry) 
 - Razorpay for payment integration
 - OpenAI/Google Generative AI for message suggestions
 - NextAuth.js for authentication
